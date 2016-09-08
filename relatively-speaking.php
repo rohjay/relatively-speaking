@@ -21,4 +21,3 @@ function rs_make_paths_relative($content)
 }
 add_filter('the_content', 'rs_make_paths_relative');
 
-
